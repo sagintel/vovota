@@ -1,12 +1,11 @@
-Hi
 
 <h2>
     Vovota ui
 </h2>
 <p>
 
-this is a ui on Vovota social app build using react for front end and django for backend,
-Ib this UI, we used : React 18,react-router-dom and material ui
+this is a ui on Vovota social app build using react for frontend and django for backend,
+In this UI, we used : React 18,react-router-dom and material ui
 
 </p>
 <p>
