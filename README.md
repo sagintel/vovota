@@ -55,12 +55,6 @@ fro this ui, we used : React 18,react-router-dom and material ui
            online page
        </b>
    </li>
-
-    <li>
-       <b>
-           Profile page
-       </b>
-   </li>
     <li>
        <b>
           Login page
@@ -71,38 +65,6 @@ fro this ui, we used : React 18,react-router-dom and material ui
            Registration page
        </b>
    </li> </ol>
-
- <h5>ScreenShots</h5>
-  <img
-   src="login.PNG"
-   />
-    <img
-   src="register.PNG"
-    />
-    <img
-   src="freinds.PNG"
-    />
-    <img
-   src="chat.PNG"
-   />
-    <img
-   src="Home.PNG"
-   />
-    <img
-   src="message.PNG"
-   />
-    <img
-   src="notification.PNG"
-   />
-    <img
-   src="post.PNG"
-   />
-    <img
-   src="Profile.PNG"
-   />
-    <img
-   src="Settings.PNG"
-   />
 
 </p
 # Getting Started with Create React App
